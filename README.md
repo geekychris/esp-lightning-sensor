@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Esp Lightning Sensor logo" width="180">
+</p>
+
 # ESP32 Lightning Detector with MQTT
 
 This project implements a lightning detection system using an ESP32 microcontroller and a WCMCU-3935 lightning detector module. The system detects lightning events and reports them via MQTT to a specified broker.
